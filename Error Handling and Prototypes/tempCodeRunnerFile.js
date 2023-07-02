@@ -1,0 +1,1 @@
+const filterProducts = filterByCategory(products);
